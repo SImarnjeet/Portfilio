@@ -3,6 +3,7 @@ import Home from "./Pages/Home";
 import NotFound from "./Pages/NotFound";
 
 function App() {
+  console.log("start")
   return (
     <BrowserRouter>
      
