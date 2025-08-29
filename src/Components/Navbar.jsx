@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { cn } from '../lib/Utils';
+import { cn } from '../Lib/Utils';
 import { Menu, X } from "lucide-react";
 
 const Navbar = () => {
